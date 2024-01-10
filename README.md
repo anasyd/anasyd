@@ -1,6 +1,6 @@
 ### Hi there, I am Anas
 - 🌱 I’m a second-year Software Engineering student at UCLan.
-- 🔭 I’m currently working on solving mental health using LLM's working with [RELai](https://relai.one/).
+- 🔭 I’m currently working on making mental healthcare accessible, efficient, and economical using LLM's. Working with [RELai](https://relai.one/).
 
 ### Languages and Frameworks
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C&color=%2300599C)
