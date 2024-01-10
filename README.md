@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/-React%20Native?style=for-the-badge&logo=react&logoColor=black&label=React%20Native&labelColor=61DAFB&color=61DAFB)
 
 ### Socials
-![Static Badge](https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=%230A66C2)(https://www.linkedin.com/in/anas-yd/)
+[![Static Badge](https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/anas-yd/)
 <!--
 **anasyd/anasyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
