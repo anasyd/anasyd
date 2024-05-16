@@ -1,6 +1,8 @@
 ### Hi there, I am Anas
 - 🌱 I’m a second-year Software Engineering student at UCLan.
 - 🔭 I’m currently working on making mental healthcare accessible, efficient, and economical using LLM's. Working with [RELai](https://relai.one/).
+- 🌐 You can checkout my website here [anasyd](https://anasyd.com)
+- 😊 i'm working on building my website in Next.js
 
 ### Languages and Frameworks
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C&color=%2300599C)
@@ -9,6 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/-Django?style=for-the-badge&logo=django&logoColor=white&label=Django&labelColor=%23092E20&color=%23092E20)
 ![Static Badge](https://img.shields.io/badge/-Flask?style=for-the-badge&logo=flask&logoColor=white&label=Flask&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/-React%20Native?style=for-the-badge&logo=react&logoColor=black&label=React%20Native&labelColor=61DAFB&color=61DAFB)
+![Static Badge](https://img.shields.io/badge/Next.js?style=for-the-badge&logo=nextdotjs)
+
 
 ### Socials
 [![Static Badge](https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/anas-yd/)
