@@ -1,8 +1,8 @@
 ### Hi there, I am Anas
 - 🌱 I’m a second-year Software Engineering student at UCLan.
 - 🔭 I’m currently working on making mental healthcare accessible, efficient, and economical using LLM's. Working with [RELai](https://relai.one/).
-- 🌐 You can checkout my website here [anasyd](https://anasyd.com)
-- 😊 i'm working on building my website in Next.js
+- 🌐 You can check my website here [anasyd](https://anasyd.com)
+- 😊 I'm currently freelancing and developing websites using Next.js
 
 ### Languages and Frameworks
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C&color=%2300599C)
