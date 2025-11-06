@@ -1,5 +1,5 @@
 ### Hi there, I am Anas
-- 🎓 Software Engineering graduate (First Class, UCLan) | 🚀 Co-Founder & CTO at ILMM.ai | 💡 Passionate about AI, mental health tech, and building scalable products
+- 🎓 Software Engineering graduate (First Class, UCLan) | 🚀 Co-Founder & CTO at [ILMM.ai](https://ilmm.ai) | 💡 Passionate about AI, mental health tech, and building scalable products
 - 🔭 Currently working on making mental healthcare accessible, efficient, and economical using LLM's. Working with [RELai](https://relai.one/).
 - 🌐 You can check my website here [anasyd](https://anasyd.com)
 - 😊 I'm currently freelancing and developing websites and apps using Next.js & Expo
