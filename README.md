@@ -1,8 +1,8 @@
 ### Hi there, I am Anas
-- 🌱 I’m a second-year Software Engineering student at UCLan.
-- 🔭 I’m currently working on making mental healthcare accessible, efficient, and economical using LLM's. Working with [RELai](https://relai.one/).
+- 🎓 Software Engineering graduate (First Class, UCLan) | 🚀 Co-Founder & CTO at ILMM.ai | 💡 Passionate about AI, mental health tech, and building scalable products
+- 🔭 Currently working on making mental healthcare accessible, efficient, and economical using LLM's. Working with [RELai](https://relai.one/).
 - 🌐 You can check my website here [anasyd](https://anasyd.com)
-- 😊 I'm currently freelancing and developing websites using Next.js
+- 😊 I'm currently freelancing and developing websites and apps using Next.js & Expo
 
 ### Languages and Frameworks
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%2300599C&color=%2300599C)
@@ -22,17 +22,3 @@
 
 ### Socials
 [![Static Badge](https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/anas-yd/)
-<!--
-**anasyd/anasyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
