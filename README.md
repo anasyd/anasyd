@@ -18,7 +18,7 @@
 
 First Class Software Engineering grad from UCLan. I co-founded [ILMM.ai](https://ilmm.ai), an AI-powered Islamic knowledge platform that's grown to 50,000+ users on the App Store and Play Store. Built the full AI and RAG pipeline there, including NLP-driven retrieval and WebSocket streaming that cut response times by 80%.
 
-These days I'm also a Founding Engineer at [RELai](https://relai.one), working on AI + clinical science tools aimed at making mental healthcare genuinely accessible, not just as a product promise but as an infrastructure problem worth solving properly.
+These days I'm also a Founding Engineer at [RELai](https://relai.one), working on AI-powered companion technology backed by clinical science, building the kind of thing that's genuinely useful to talk to, not just another chatbot.
 
 Alongside that I freelance, building web and mobile products for clients. I'll take on interesting problems.
 
@@ -29,7 +29,7 @@ Alongside that I freelance, building web and mobile products for clients. I'll t
 | | |
 |---|---|
 | **[ILMM.ai](https://ilmm.ai)** | Islamic knowledge platform: conversational AI, RAG pipelines, Discord bot, 50k+ users |
-| **[RELai](https://relai.one)** | AI-powered mental wellness: LLM pipelines, clinical workflows, evidence-based tooling |
+| **[RELai](https://relai.one)** | AI companion backed by clinical science: LLM pipelines, evidence-based tooling |
 | **[Exam Helper](https://github.com/anasyd/exam-helper)** | PDF to AI-generated flashcards, supporting Gemini, GPT, Claude, and OpenRouter |
 
 ---
@@ -77,12 +77,18 @@ Alongside that I freelance, building web and mobile products for clients. I'll t
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true#gh-dark-mode-only" alt="Anas's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=swift&bg_color=00000000&hide_border=true&show_icons=true#gh-light-mode-only" alt="Anas's GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=swift&bg_color=00000000&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true" alt="Anas's GitHub stats" />
+  </picture>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000#gh-dark-mode-only" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=swift&bg_color=00000000#gh-light-mode-only" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=swift&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000" alt="Top languages" />
+  </picture>
 </td>
 </tr>
 </table>
