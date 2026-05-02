@@ -78,16 +78,16 @@ Alongside that I freelance, building web and mobile products for clients. I'll t
 <tr>
 <td>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=swift&bg_color=00000000&hide_border=true&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true" alt="Anas's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://anasyd-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://anasyd-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=swift&bg_color=00000000&hide_border=true&show_icons=true" />
+    <img src="https://anasyd-readme-stats.vercel.app/api?username=anasyd&include_all_commits=false&hide_rank=false&rank_icon=github&show=prs_merged&theme=merko&bg_color=00000000&hide_border=true&show_icons=true" alt="Anas's GitHub stats" />
   </picture>
 </td>
 <td>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=swift&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://anasyd-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://anasyd-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=swift&bg_color=00000000" />
+    <img src="https://anasyd-readme-stats.vercel.app/api/top-langs/?username=anasyd&layout=compact&hide_border=true&theme=merko&bg_color=00000000" alt="Top languages" />
   </picture>
 </td>
 </tr>
